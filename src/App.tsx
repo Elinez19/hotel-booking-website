@@ -1,11 +1,10 @@
-import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import HomePage from './pages/HomePage';
-import HotelsListPage from './pages/HotelsListPage';
-import HotelDetailPage from './pages/HotelDetailPage';
-import RoomsPage from './pages/RoomsPage';
-import DestinationsPage from './pages/DestinationsPage';
-import ContactPage from './pages/ContactPage';
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import HomePage from "./pages/HomePage";
+import HotelsListPage from "./pages/HotelsListPage";
+import HotelDetailPage from "./pages/HotelDetailPage";
+import RoomsPage from "./pages/RoomsPage";
+import DestinationsPage from "./pages/DestinationsPage";
+import ContactPage from "./pages/ContactPage";
 
 function App() {
   return (
